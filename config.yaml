@@ -2,5 +2,5 @@ baseURL: http://example.org/
 languageCode: en-us
 title: BACK 4U
 
-theme: Paper
+theme: paper
 publishdir: ./site/
