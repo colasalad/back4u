@@ -3,3 +3,4 @@ languageCode: en-us
 title: BACK 4U
 
 theme: Paper
+publishdir: ../docs/
