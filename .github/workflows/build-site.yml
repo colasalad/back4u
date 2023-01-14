@@ -35,6 +35,9 @@ jobs:
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
+          
+      - name: List
+        run: ls ./themes
         
       # Build blog
       - name: Build
