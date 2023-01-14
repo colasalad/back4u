@@ -43,8 +43,8 @@ jobs:
       - name: Checkout gh-pages & Move files
         run: |
           git fetch
-          git checkout -B gh-pages
-          ls | grep -v docs | grep -v CNAME | xargs rm -r
+          git checkout gh-pages
+          ls | grep -v site | grep -v CNAME | xargs rm -r
           mv site/* .
           rm -r site/
           
