@@ -3,7 +3,7 @@ title: "用户协议"
 date: 2023-01-14T14:22:34+08:00
 ---
 
-## 🌍Language：[简体中文](http://localhost:1313/back4u/pages/trems/privacy-policy-zh/) | EN
+## 🌍Language：[简体中文](trems/privacy-policy-zh/) | EN
 
 **1.总则**
 

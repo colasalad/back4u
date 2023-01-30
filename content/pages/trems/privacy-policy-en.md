@@ -3,7 +3,7 @@ title: "Privacy Policy"
 date: 2023-01-14T14:22:34+08:00
 ---
 
-## 🌍Language：[简体中文](http://localhost:1313/back4u/pages/trems/privacy-policy-zh/) | EN
+## 🌍Language：[简体中文](trems/privacy-policy-zh/) | EN
 
 This page is used to inform users of our application's policy on the collection and use of personal information. The information we collect is used to provide and improve our services, and we will not use or share your information with anyone except as described in this privacy policy.
 
