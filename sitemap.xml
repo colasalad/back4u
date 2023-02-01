@@ -1,36 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://back.hitback.space/</loc>
-    <lastmod>2023-01-14T14:22:34+08:00</lastmod>
-  </url><url>
-    <loc>https://back.hitback.space/chinese/</loc>
-    <lastmod>2023-01-14T14:22:34+08:00</lastmod>
-  </url><url>
-    <loc>https://back.hitback.space/pages/contact-us/</loc>
-    <lastmod>2023-01-14T14:22:34+08:00</lastmod>
-  </url><url>
-    <loc>https://back.hitback.space/english/</loc>
-    <lastmod>2023-01-14T14:22:34+08:00</lastmod>
-  </url><url>
-    <loc>https://back.hitback.space/pages/</loc>
-    <lastmod>2023-01-14T14:22:34+08:00</lastmod>
-  </url><url>
-    <loc>https://back.hitback.space/english/privacy-policy-en/</loc>
-    <lastmod>2023-01-14T14:22:34+08:00</lastmod>
-  </url><url>
-    <loc>https://back.hitback.space/english/terms-of-use-en/</loc>
-    <lastmod>2023-01-14T14:22:34+08:00</lastmod>
-  </url><url>
-    <loc>https://back.hitback.space/chinese/terms-of-use-zh/</loc>
-    <lastmod>2023-01-14T14:22:34+08:00</lastmod>
-  </url><url>
-    <loc>https://back.hitback.space/chinese/privacy-policy-zh/</loc>
-    <lastmod>2023-01-14T14:22:34+08:00</lastmod>
-  </url><url>
-    <loc>https://back.hitback.space/categories/</loc>
-  </url><url>
-    <loc>https://back.hitback.space/tags/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://back.hitback.space/en/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://back.hitback.space/zh/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>
