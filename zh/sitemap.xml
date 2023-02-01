@@ -15,16 +15,36 @@
                 href="https://back.hitback.space/zh/"
                 />
   </url><url>
-    <loc>https://back.hitback.space/zh/contact-us/</loc>
+    <loc>https://back.hitback.space/zh/pages/contact-us/</loc>
+    <lastmod>2023-01-14T14:22:34+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://back.hitback.space/pages/contact-us/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://back.hitback.space/zh/pages/contact-us/"
+                />
+  </url><url>
+    <loc>https://back.hitback.space/zh/pages/</loc>
+    <lastmod>2023-01-14T14:22:34+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://back.hitback.space/pages/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://back.hitback.space/zh/pages/"
+                />
+  </url><url>
+    <loc>https://back.hitback.space/zh/pages/terms/privacy-policy-zh/</loc>
     <lastmod>2023-01-14T14:22:34+08:00</lastmod>
   </url><url>
-    <loc>https://back.hitback.space/zh/terms/</loc>
-    <lastmod>2023-01-14T14:22:34+08:00</lastmod>
-  </url><url>
-    <loc>https://back.hitback.space/zh/privacy-policy-zh/</loc>
-    <lastmod>2023-01-14T14:22:34+08:00</lastmod>
-  </url><url>
-    <loc>https://back.hitback.space/zh/terms/terms-of-use-zh/</loc>
+    <loc>https://back.hitback.space/zh/pages/terms/terms-of-use-zh/</loc>
     <lastmod>2023-01-14T14:22:34+08:00</lastmod>
   </url><url>
     <loc>https://back.hitback.space/zh/categories/</loc>
