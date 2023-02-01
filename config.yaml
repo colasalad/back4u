@@ -5,11 +5,11 @@ languages:
   en:
     contentDir: content/english
     languageName: English
-    weight: 10
+    weight: 1
   zh:
     contentDir: content/chinese
     languageName: Chinese
-    weight: 20
+    weight: 2
 
 theme: paper
 publishdir: ./site/
