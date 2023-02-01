@@ -3,7 +3,7 @@ title: "Terms of Use"
 date: 2023-01-14T14:22:34+08:00
 ---
 
-## 🌍Language：[简体中文](terms/privacy-policy-zh.md) | EN
+## 🌍Language：[简体中文](https://back.hitback.space/pages/terms/terms-of-use-zh/) | EN
 
 1. **1. General Provisions**
 
