@@ -3,7 +3,7 @@ title: "隐私政策"
 date: 2023-01-14T14:22:34+08:00
 ---
 
-## 🌍Language：简体中文 | [EN](terms/privacy-policy-en/)
+## 🌍Language：简体中文 | [EN](terms/privacy-policy-en.md)
 
 本页面用于告知用户，我们的应用程序对个人信息的收集和使用的政策。我们所收集的信息用于提供和改进服务，除本隐私政策所述情况外，我们不会与任何人使用或分享您的信息。
 
