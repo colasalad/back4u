@@ -1,6 +1,9 @@
 baseURL: https://back.hitback.space
 languageCode: en-us
+defaultContentLanguage: en
 title: BACK 4U
+theme: paper
+publishdir: ./site/
 languages:
   en:
     contentDir: content/english
@@ -10,6 +13,3 @@ languages:
     contentDir: content/chinese
     languageName: Chinese
     weight: 2
-
-theme: paper
-publishdir: ./site/
